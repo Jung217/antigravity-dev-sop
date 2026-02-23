@@ -1,5 +1,5 @@
 ---
-name: antigravity-dev-sop
+name: antigravity-dev-sop-zh
 description: 強調「策略先行」與「自我驗證」的 AI 協作規範。強制執行繁體中文環境、環境變數隔離及 Git 現況感知，並以 Agent Loop 迭代方式完成 MVP 核心功能。
 ---
 
