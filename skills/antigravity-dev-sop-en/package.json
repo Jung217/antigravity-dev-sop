@@ -1,0 +1,17 @@
+{
+  "name": "antigravity-dev-sop-en",
+  "version": "1.0.0",
+  "description": "An AI collaboration framework emphasizing "Strategy First" and "Self-Verification." Enforces environment variable isolation, Git context awareness, and iterative development of MVP features via an Agent Loop.",
+  "agent-skills": {
+    "version": "1"
+  },
+  "keywords": [
+  "agent-loop",
+  "mvp-strategy",
+  "git-context-aware",
+  "env-isolation",
+  "traditional-chinese-dev",
+  "self-verification"
+  ],
+  "author": "Jung217"
+}
