@@ -1,2 +1,2 @@
 # antigravity-dev-sop
-標準化 AI 開發代理協議。強調「策略優於實作」與「探索式 Agent Loop」，強制執行環境變數隔離、Git 狀態感知及繁體中文在地化，旨在確保複雜系統開發的穩定性與安全性。
+An AI collaboration framework emphasizing Strategy First and Self-Verification. Enforces environment variable isolation, Git context awareness, and iterative development of MVP features via an Agent Loop.
